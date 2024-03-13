@@ -4,3 +4,4 @@ int main(){
     print(str);
     return 0;
 }
+"hahuhuhu"
